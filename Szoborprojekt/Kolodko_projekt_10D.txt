@@ -1,0 +1,153 @@
+KOLODKO-PROJEKT (10.D)
+==================================================
+
+
+A PROJEKT CÉLJA
+--------------------------------------------------
+A diákok megismerkednek:
+  - Kolodko Mihály munkásságával és szobraival,
+  - a szobrokon keresztül a magyar múlt jelentős, szemléletformáló
+    (valós vagy kitalált) alakjaival,
+  - Budapest műemlékeivel és nevezetességeivel.
+
+Emellett fejlesztik a weblaptervezési és webfejlesztési ismereteiket.
+
+
+CSAPATOK ÉS MUNKAMEGOSZTÁS
+--------------------------------------------------
+  - A csapat 3-4 fős. Mindenki feladatát egyértelműen meg kell határozni.
+  - A csapat közös GitHub repositoryt használ. Minden tag külön branchen
+    dolgozik, hogy a GitHubon látszódjon a folyamat.
+  - A szöveges anyagokat Markdown formátumban kell elkészíteni.
+
+
+SZOBROK CSAPATONKÉNT
+--------------------------------------------------
+Minden csapat 8 szobrot mutat be, ebből 5 egyedi
+(két szobor másik csapattal közös).
+
+1. csapat:
+   Drakula, Micimackó, Garfield, Roth Miksa, Búvár és kulcs, Skála kópé, Halott mókus, Yoda miniszobor
+   Niki, Zoli, Szilvi
+
+2. csapat:
+   14 karátos autó, Szenes Hanna, Skála kópé, Halott mókus, Yoda miniszobor, Garfield, Roth Miksa, Búvár és kulcs
+   Tamara, Bogi, Robi
+
+3. csapat:
+   Noé bárkája, Mekk Elek, Balta, Breki, Szomorú tank, Mr. Bean maci, Usánka, Holdjáró
+   Bence, Janó, Ádám
+
+4. csapat:
+   Főkukac, Lufikutya, Mr. Bean maci, Usánka, Holdjáró, Balta, Breki, Szomorú tank
+   Töcsi, Attila, Laci
+
+
+HATÁRIDŐK
+--------------------------------------------------
+1. mérföldkő - Október 16.
+   Elkészült részfeladatok: 1. és 2. feladat
+
+2. mérföldkő - November 6.
+   Elkészült részfeladatok: 3. feladat + saját képek;
+   4. feladat design része (drótváz)
+
+3. mérföldkő - November 13.
+   A teljes projekt
+
+
+FELADATOK
+--------------------------------------------------
+
+1. KOLODKO MIHÁLY ÉLETE ÉS MUNKÁSSÁGA
+   Kutatómunka Markdown formátumban, a GitHub tárolóban (Kolodko.md).
+   1.1 Képek Kolodkóról (legalább 8 db)
+   1.2 Esszé Kolodko életéről és munkásságáról (3000-4000 karakter)
+   1.3 Forrásgyűjtemény (legalább 5 forrás)
+
+2. SZOBROK LEÍRÁSA
+   Markdown formátumban, a GitHub tárolóban (szobrok.md).
+   Mind a 8 szoborhoz tartozik:
+     - fényképek,
+     - esszé a szobor jelentőségéről és történetéről
+       (1000-1500 karakter).
+   2.1 Első szobor
+   2.2 Második szobor
+   ...
+   2.8 Nyolcadik szobor
+   2.9 Közös forrásgyűjtemény
+
+3. TURISTATÉRKÉP
+   Az útvonal érintse a szobrokat, és szobronként 1-2 közeli városi
+   nevezetességet.
+   3.1 Az útvonal feltérképezése, gyülekezési ponttal és BKK-s
+       útvonaltervvel
+   3.2 Az útvonal megjelenítése Google térképen
+   3.3 Nevezetességek megnevezése (legalább 6 db):
+         3.3.1 Mindegyikhez rövid ismertető (200-500 karakter)
+         3.3.2 A hivatalos oldal linkje
+   3.4 Az útvonal turistaleírása
+   3.5 Forrásgyűjtemény
+
+4. WEBOLDAL
+   Bootstrap alapú oldal, amely mobilon, tableten és Full HD
+   felbontáson is jól működik.
+
+   4.0 Design terv
+
+   4.1 Landing oldal (látványos, kreatív)
+       4.1.1 Drótváz
+       4.1.2 Grafikai előkészületek (mockup)
+       4.1.3 Galéria
+       4.1.4 HTML-CSS oldal Bootstrappel
+
+   4.2 Szobrok bemutatása
+       4.2.1 Drótváz(ak)
+       4.2.2 Grafikai előkészületek
+       4.2.3 HTML-CSS oldal Bootstrappel és JavaScripttel
+             (pl. képnézegető)
+
+   4.3 Turistaútvonal-ajánló
+       4.3.1 Google térkép generálása
+       4.3.2 A szobrok és a városi nevezetességek megjelenítése
+       4.3.3 BKK útvonalterv készítése
+       4.3.4 HTML-CSS oldal Bootstrappel
+
+   4.4 Kolodko Mihályt bemutató oldal
+       4.4.1 Bemutatkozás
+       4.4.2 Főbb művek
+       4.4.3 Hasonló külföldi szobrászok megemlítése
+
+   Minden részfeladatra: a fejlesztők külön branchen dolgoznak,
+   hogy a GitHubon látszódjon a folyamat.
+
+5. A PROJEKT BEMUTATÁSA
+   5.1 Összefoglaló esszé
+   5.2 Prezentáció
+   5.3 A GitHub tároló használata
+   5.4 A teljes weboldal publikálása GitHub Pages-en
+
+
+ÉRTÉKELÉSI SZEMPONTOK
+--------------------------------------------------
+
+1. feladat (Kolodko-kutatás)
+   a) Az esszé több forrás alapján készült.
+   b) Megfelelő terjedelmű.
+   c) Jól tagolt.
+   d) Címeket és alcímeket használ.
+   e) Érdekes, jó minőségű képek, legalább a megadott darabszámban.
+
+2. feladat (Szobrok)
+   a) Saját képek, a csapattag jelenlétével a képen.
+   b) Érdekes esszé.
+   c) A szobor-esszék és képek mennyisége megfelelő.
+   d) Önálló gondolatok.
+   e) Jó tagolás.
+
+3. feladat (Turistatérkép)
+   a) Van térkép.
+   b) Az útvonalterven a szobrok jelölve vannak.
+   c) A nevezetességek jelölve és bemutatva vannak.
+   d) Az esszék jól tagoltak.
+   e) A forráslista megvan, és a források fel is vannak használva.
